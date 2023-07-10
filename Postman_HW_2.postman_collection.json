@@ -402,11 +402,6 @@
 							"key": "salary",
 							"value": "{{Salary}}",
 							"type": "text"
-						},
-						{
-							"key": "",
-							"value": "",
-							"type": "text"
 						}
 					]
 				},
