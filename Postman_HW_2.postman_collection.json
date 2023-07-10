@@ -374,8 +374,8 @@
 							"    pm.expect(resp.person.u_salary_5_years).to.eql(+req.salary*4.2);\r",
 							"});\r",
 							"\r",
-							"for (i in resp.person) {\r",
-							"    console.log(resp.person[i]);\r",
+							"for (key in resp.person) {\r",
+							"    console.log(resp.person[key]);\r",
 							"};"
 						],
 						"type": "text/javascript"
