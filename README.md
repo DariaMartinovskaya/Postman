@@ -8,4 +8,4 @@ Postman is a standalone software testing API (Application Programming Interface)
 
 <a href="https://github.com/DariaMartinovskaya/Postman/blob/main/Postman_HW1.postman_collection.json">Postman collection 1</a> - sending simple requests. 
 
-<a href="https://github.com/DariaMartinovskaya/Postman/blob/main/Postman_HW2.postman_collection.json">Postman collection 2</a> - sending requests according to the following <a href="https://github.com/DariaMartinovskaya/Postman/blob/main/Postman_HW2.md">tasks</a>.
+<a href="https://github.com/DariaMartinovskaya/Postman/blob/main/Postman_HW2.postman_collection.json">Postman collection 2</a> - doing simple autotests using simple Postman loops according to the following <a href="https://github.com/DariaMartinovskaya/Postman/blob/main/Postman_HW2.md">tasks</a>.
